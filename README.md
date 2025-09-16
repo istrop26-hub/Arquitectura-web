@@ -13,5 +13,9 @@ _Tendrá como métodos pincipales:_
 * void crearMedico(Matrícula);
 * void modificarMedico(Matrícula);
 * void eliminarMedico(Matrícula);
-* voidbuscarMedico(Matrícula);
+* void buscarMedico(Matrícula);
 
+_Y tendrá dos métodos aparte del C.R.U.D.:_
+
+* void
+* void
