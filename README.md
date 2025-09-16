@@ -11,5 +11,7 @@ _Tendrá una clase Admin que se encargará de gestionar médicos en la base._
 _Tendrá como métodos pincipales:_
 
 * void crearMedico(Matrícula);
-* 
+* void modificarMedico(Matrícula);
+* void eliminarMedico(Matrícula);
+* voidbuscarMedico(Matrícula);
 
