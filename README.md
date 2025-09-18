@@ -19,3 +19,6 @@ _Y tendrá dos métodos aparte del C.R.U.D.:_
 
 * void calcularSueldoMedico(Matricula);
 * void asignarConsultorio(Matricula);
+
+
+<img width="345" height="333" alt="image" src="https://github.com/user-attachments/assets/6d9869f7-46c7-4817-93a6-b1e64fd5dd39" />
