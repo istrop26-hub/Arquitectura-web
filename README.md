@@ -17,5 +17,5 @@ _Tendrá como métodos pincipales:_
 
 _Y tendrá dos métodos aparte del C.R.U.D.:_
 
-* void
-* void
+* void calcularSueldoMedico(Matricula);
+* void asignarConsultorio(Matricula);
